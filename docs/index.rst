@@ -9,7 +9,7 @@ How to Sign In My System Mechanic Account? – A Complete Guide
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://aclogportal.com/
+   :target: https://aclogportal.com/systemmechanic-login-account
 
 System Mechanic from iolo Technologies is a powerful tool for improving the performance of your PC. Millions of people now use System Mechanic to clean out their computers, speed them up, fix issues; and simply make them work more successful overall. But to get to all of its premium features, you need to be able to manage your account well. This article will tell you all you need to know about signing in to your System Mechanic account, from how to get to your account to how to fix common problems.
 
