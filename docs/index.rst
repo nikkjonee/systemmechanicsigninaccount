@@ -7,7 +7,7 @@ How to Sign In My System Mechanic Account? – A Complete Guide
 
 .. image:: login.png
    :alt: My Project Logo
-   :width: 400px
+   :width: 300px
    :align: center
    :target: https://aclogportal.com/systemmechanic-login-account
 
